@@ -1,0 +1,25 @@
+def mileageCalculation(speed, hours):
+    # Initialize variables
+    mileage = 0.0
+    mileageDictionary={}
+    
+    # Print header for output table
+    print("{:<8} {:<15} ".format('Hour', 'Mileage'))
+    
+    # Iterate through range of hours
+    for hour in range(0, hours + 1):
+        # Calculate mileage for each hour
+        mileage = hour * speed
+        # Add hour and corresponding mileage to dictionary
+        mileageDictionary[hour] = mileage
+    
+    # Iterate through mileageDictionary and print key-value pairs
+    for key, value in mileageDictionary.items():
+        print("{:<8} {:<15}".format(str(key), str(value)))
+
+if __name__ == "__main__":
+    # Get input for speed and hours traveled
+    speed = int(input('Enter the Speed of the vehicle: '))
+    hours = int(input('Enter the hours vehicle travelled: '))
+    # Call mileageCalculation function with input values
+    mileageCalculation(speed, hours)
