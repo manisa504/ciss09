@@ -1,0 +1,3 @@
+"
+This code imports the pandas and numpy packages, creates a list of id's and a dictionary containing other sets of data, such as "name," "score," "attempt," and "pass/fail." It then creates a dataframe using the dictionary and list as the index. It then selects and displays certain columns and rows from the dataframe using iloc and boolean indexing. It then appends a new record to the dataframe and deletes a specific record. Finally, it replaces values in the 'pass/fail' column with 'pass' and 'fail' and displays the new dataframe.
+"
