@@ -1,4 +1,13 @@
 ![image](https://miro.medium.com/v2/resize:fit:800/1*Y5wIQF5GtCGkkpGVy8axCw.png)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=flat-square)](https://www.python.org)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue.svg?style=flat-square)
+![AB Testing](https://img.shields.io/badge/AB_Testing-Analysis-purple.svg?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-Matplotlib-yellow.svg?style=flat-square)
+![Bootstrap Analysis](https://img.shields.io/badge/Bootstrap_Analysis-Statistical_Method-green.svg?style=flat-square)
+![Player Retention](https://img.shields.io/badge/Player_Retention-Game_Success_Metric-red.svg?style=flat-square)
+![Game Analysis](https://img.shields.io/badge/Game_Analysis-Cookie_Cats-orange.svg?style=flat-square)
+
 # Cookie Cats: Understanding Player Retention through AB Testing
 
 ## Project Overview
