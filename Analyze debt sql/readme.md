@@ -1,4 +1,12 @@
 ![image](https://www.visualcapitalist.com/wp-content/uploads/2019/11/worlds-debt-2019-prev-1000x600.png)
+
+[![SQL](https://img.shields.io/badge/SQL-Database_Query-blue.svg?style=flat-square)](https://www.w3schools.com/sql/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue.svg?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Exploration-green.svg?style=flat-square)
+![Economic Research](https://img.shields.io/badge/Economic_Research-Debt_Analysis-purple.svg?style=flat-square)
+![Financial Data](https://img.shields.io/badge/Financial_Data-World_Bank-orange.svg?style=flat-square)
+![International Debt](https://img.shields.io/badge/International_Debt-Analysis-red.svg?style=flat-square)
+
 # The World Bank's International Debt Data Analysis
 
 ## Overview
