@@ -1,4 +1,4 @@
-![image](https://files.oaiusercontent.com/file-SCtSmI46Ouur1XeTEfEEInQu?se=2023-11-22T04%3A07%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daaabad4e-a461-4c61-824b-df422717e0e7.webp&sig=bmsSJjYj%2B%2Bccf4vl2Y8uunm9wmg0Sw2J3lx35lG9ris%3D)
+![image](https://github.com/manisa504/manisha/blob/main/project2/381268565_6551742671583497_2473380353664931826_n.jpg)
 # About me
 About Me
 I am a dedicated PowerBI Developer at Intel, actively engaged in leveraging my expertise in data visualization and analysis to drive informed decision-making within the company. Concurrently, I am pursuing a graduate degree in Data Science and Business Analytics at Texas Tech University.
