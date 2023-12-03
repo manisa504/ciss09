@@ -1,4 +1,18 @@
-![image](https://files.oaiusercontent.com/file-mXkcG5ufdgwWGCqNoiM8VuXB?se=2023-11-22T04%3A47%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D89996a00-67f5-4e04-97cd-48d614eecf3c.webp&sig=fKa/Q/GnMxGC4fx4xtdIy3PWzbVXXIETJ6aahF4HjBw%3D)
+![image](https://github.com/manisa504/manisha/assets/97705567/bb0232b5-0788-4a3b-bf1f-bfd2f6c4f683)
+
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-blue.svg?style=flat-square)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-blue.svg?style=flat-square)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Data_Visualization-blue.svg?style=flat-square)](https://seaborn.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-Machine_Learning-orange.svg?style=flat-square)](https://scikit-learn.org/stable/)
+[![StandardScaler](https://img.shields.io/badge/StandardScaler-Feature_Scaling-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+[![PCA](https://img.shields.io/badge/PCA-Dimensionality_Reduction-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+[![DecisionTreeClassifier](https://img.shields.io/badge/DecisionTree-Classifier-orange.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+[![LogisticRegression](https://img.shields.io/badge/LogisticRegression-Classifier-orange.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+[![KFold](https://img.shields.io/badge/KFold-Cross_Validation-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html)
+[![Pipeline](https://img.shields.io/badge/Pipeline-Workflow_Orchestration-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+
 # Music Genre Classification Project
 
 ## Overview
