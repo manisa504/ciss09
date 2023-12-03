@@ -1,4 +1,11 @@
 ![image](https://images.ctfassets.net/4cd45et68cgf/7ciNwxNKBqygzOsGzp1jSI/1d13387defe2332403543d610a10b1cc/-_____________________--__________________-____________________________________2022_________________________________________.jpg?w=2560)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.x-yellow)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.x-orange)](https://seaborn.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-1.x-green)](https://numpy.org/)
+
 # Netflix Movie Duration Analysis
 
 ## Introduction
