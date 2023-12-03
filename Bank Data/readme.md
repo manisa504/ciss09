@@ -1,4 +1,13 @@
 ![image](https://s.yimg.com/ny/api/res/1.2/Yq7MYGRuWyV7U7xYt3Eyig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/reuters-finance.com/ab8f6d95ba09e93690e6a2e2bb873b98)
+
+[![Python](https://img.shields.io/badge/Python-Data_Analysis-blue.svg?style=flat-square)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-blue.svg?style=flat-square)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical_Operations-blue.svg?style=flat-square)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-blue.svg?style=flat-square)](https://matplotlib.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-Statistical_Analysis-blue.svg?style=flat-square)](https://www.scipy.org/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical_Modeling-blue.svg?style=flat-square)](https://www.statsmodels.org/stable/index.html)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Computing-blue.svg?style=flat-square)](https://jupyter.org/)
+
 # Banking Recovery Analysis
 
 This README provides an extensive overview of the analysis conducted on banking recovery strategies, focusing on regression discontinuity. The analysis aims to assess whether the incremental recovery at higher strategy levels exceeds the additional cost incurred by the bank ($50 per customer). The steps and findings are outlined below:
