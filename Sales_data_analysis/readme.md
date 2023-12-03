@@ -1,4 +1,11 @@
 ![image](https://www.finereport.com/en/wp-content/uploads/2020/06/2020062201I-1024x576.png)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.x-yellow)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.x-orange)](https://seaborn.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-1.x-green)](https://numpy.org/)
+
 # Sales Analysis
 
 This repository contains a Python script that conducts an analysis on sales data, cleans it, and derives insights from it using the Pandas library.
