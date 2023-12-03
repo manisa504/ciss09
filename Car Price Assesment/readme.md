@@ -1,4 +1,23 @@
 ![image](https://cdn.shopify.com/s/files/1/0196/5170/files/Tesla-Models-Compared.jpg?v=1586714150)
+
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg?style=flat-square)](https://www.python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-blue.svg?style=flat-square)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Data_Visualization-blue.svg?style=flat-square)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-blue.svg?style=flat-square)](https://matplotlib.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat-square)](https://jupyter.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Data_Processing-blue.svg?style=flat-square)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-blue.svg?style=flat-square)](https://scipy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-Machine_Learning-orange.svg?style=flat-square)](https://scikit-learn.org/stable/)
+[![PCA](https://img.shields.io/badge/PCA-Dimensionality_Reduction-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+[![LinearRegression](https://img.shields.io/badge/Linear_Regression-Model-orange.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+[![RandomForest](https://img.shields.io/badge/Random_Forest-Regressor-green.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+[![LabelEncoder](https://img.shields.io/badge/LabelEncoder-Data_Preprocessing-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)
+[![MinMaxScaler](https://img.shields.io/badge/MinMaxScaler-Data_Scaling-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
+[![StandardScaler](https://img.shields.io/badge/StandardScaler-Data_Scaling-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+[![OneHotEncoder](https://img.shields.io/badge/OneHotEncoder-Categorical_Encoding-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
+[![RobustScaler](https://img.shields.io/badge/RobustScaler-Data_Scaling-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
+[![TrainTestSplit](https://img.shields.io/badge/Train_Test_Split-Model_Selection-orange.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+
 # Car Price Prediction Project
 
 ## Overview
