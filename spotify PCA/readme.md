@@ -1,4 +1,14 @@
 ![image](https://storage.googleapis.com/pr-newsroom-wp/1/2023/01/AppleCompetition-FTRHeader_V2-1440x733.png)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-blue.svg?style=flat-square)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-blue.svg?style=flat-square)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Data_Visualization-blue.svg?style=flat-square)](https://seaborn.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-Machine_Learning-orange.svg?style=flat-square)](https://scikit-learn.org/stable/)
+[![KMeans](https://img.shields.io/badge/KMeans-Clustering_Algorithm-orange.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+[![StandardScaler](https://img.shields.io/badge/StandardScaler-Feature_Scaling-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+[![PCA](https://img.shields.io/badge/PCA-Dimensionality_Reduction-blue.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+
 # Spotify PCA Analysis
 
 This repository contains code for performing Principal Component Analysis (PCA) on a Spotify dataset to explore underlying patterns and relationships between different musical features. The analysis involves using Python libraries such as Pandas, Matplotlib, Seaborn, and Scikit-learn.
