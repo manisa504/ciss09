@@ -1,4 +1,12 @@
 ![image](https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1235737290.jpeg?w=1024)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![pandas](https://img.shields.io/badge/pandas-1.x-orange)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-4.x-blue)](https://plotly.com/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.x-orange)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-yellow)](https://matplotlib.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+
 # Google Play Store Apps and Reviews Analysis
 
 This repository contains a comprehensive analysis of over ten thousand Android apps in the Google Play Store across different categories. The analysis includes insights derived from two main datasets: `apps.csv` (details of the applications on Google Play) and `user_reviews.csv` (containing reviews for each app).
