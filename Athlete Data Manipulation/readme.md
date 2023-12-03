@@ -1,4 +1,9 @@
 ![image](https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/04/Bolt_2880x1620_Lede.jpg)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![pandas](https://img.shields.io/badge/pandas-1.x-orange)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+
 # Athlete Dataset Analysis
 
 ## Overview
