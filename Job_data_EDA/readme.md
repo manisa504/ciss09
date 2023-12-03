@@ -1,4 +1,11 @@
 ![image](https://miro.medium.com/v2/resize:fit:1200/1*6ry-K4BYrrWjqEx5gGsfrw.png)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.x-yellow)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.x-orange)](https://seaborn.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-1.x-green)](https://numpy.org/)
+
 # AI Impact on Job Titles and Future of Work
 
 ## Introduction
