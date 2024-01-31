@@ -1,0 +1,62 @@
+---
+title: "Assign3-2_Shah"
+output: word_document
+date: "2024-01-25"
+---
+
+```{r step1}
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
+library(readr)
+library(dplyr)
+bank_data <- read_csv("/Users/manishashah/Desktop/UniversalBank_Ensemble(1).csv")
+
+  # data preprocessing
+bank_data <- bank_data %>%
+  rename(Personal_Loan = `Personal Loan`, 
+         Securities_Account = `Securities Account`) %>%
+  mutate_at(vars(Personal_Loan, Securities_Account, CreditCard), as.factor)
+```
+```{r model}
+# 1. Decision Tree
+library(rpart)
+fit_tree <- rpart(Personal_Loan ~ ., data = bank_data, method = "class")
+fit_tree
+```
+
+```{r bgging}
+# 2. Bagging
+library(ipred)
+fit_bagging <- bagging(Personal_Loan ~ ., data = bank_data, nbagg = 100, coob = TRUE)
+fit_bagging
+```
+
+```{r boosting}
+# 3. Boosting
+library(gbm)
+fit_boosting <- gbm(Personal_Loan ~ ., data = bank_data, distribution = "bernoulli", n.trees = 100, verbose = FALSE)
+fit_boosting
+```
+
+```{r RF}
+# 4. Random Forest
+library(randomForest)
+fit_rf <- randomForest(Personal_Loan ~ ., data = bank_data)
+fit_rf
+```
+
+```{r createnewdata}
+# now create caroline's data
+caroline <- data.frame(Age = 32, Experience = 6,Income = 200,Family = 3,Education = 3, Mortgage = 0, Securities_Account = factor(1, levels = levels(bank_data$Securities_Account)), CreditCard = factor(1, levels = levels(bank_data$CreditCard)))
+
+# let's do a predictions
+predict_tree <- predict(fit_tree, newdata = caroline, type = "class")
+predict_bagging <- predict(fit_bagging, newdata = caroline, type = "class")
+predict_boosting <- predict(fit_boosting, newdata = caroline, n.trees = 100, type = "response")
+predict_rf <- predict(fit_rf, newdata = caroline, type = "class")
+
+# Print the prediction
+print(list(Decision_Tree = predict_tree, Bagging = predict_bagging, Boosting = predict_boosting, Random_Forest = predict_rf))
+```
+
+#  Caroline's profile with four different models - Decision Tree, Bagging, Random Forest, and Boosting - each model gives the same prediction: Caroline is likely to accept a personal loan. This unanimous prediction across different models suggests that Caroline's details match well with those of customers who usually accept loans from Universal Bank. This consistent prediction across various models makes the result more reliable. For the bank, this information is very useful. They can focus their loan marketing on customers like Caroline, likely improving their chances of success. This example shows how combining different models in prediction, known as ensemble modeling, is useful in banking for making better marketing decisions.
+
