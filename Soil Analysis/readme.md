@@ -1,3 +1,14 @@
+![image](https://sodsolutions.com/wp-content/uploads/2021/10/hand-holding-soil-up-close-elements-labeled.jpg)
+
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg?style=flat-square)](https://www.python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-blue.svg?style=flat-square)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Data_Visualization-blue.svg?style=flat-square)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-blue.svg?style=flat-square)](https://matplotlib.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat-square)](https://jupyter.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Data_Processing-blue.svg?style=flat-square)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-blue.svg?style=flat-square)](https://scipy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-Machine_Learning-orange.svg?style=flat-square)](https://scikit-learn.org/stable/)
+[![TrainTestSplit](https://img.shields.io/badge/Train_Test_Split-Model_Selection-orange.svg?style=flat-square)](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 # Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
 
 ## Project Introduction
